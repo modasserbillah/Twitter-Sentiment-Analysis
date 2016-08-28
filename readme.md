@@ -1,0 +1,2 @@
+## NLP on twitter data
+In this project, I have done sentiment analysis on tweets. Tweets were collected using the twitter API. Apart from computing sentiment scores for tweets, top ten hashtags, finding the happiest state based on user location and computing term frequency of the tweet words were also done. The whole thing was done as a part of an assignment in the Data Science at Scale specialization on Coursera.
